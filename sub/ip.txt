@@ -1,5 +1,5 @@
 //profile-title:  base64:4pqh8J+SpVdPUksgU0VSVkVSIENIRUNL4pqh8J+SpQ==
-//profile-update-interval: 24
+//profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 
 vless://58db2ada-c47b-40ce-b40c-c5ca45ae7a48@Live.skornorth.com:443?flow=&host=vrg5fjnbbn.com&path=ws%2F%3Fed%3D2048&security=tls&sni=Live.skornorth.com&type=ws#WorkSever
